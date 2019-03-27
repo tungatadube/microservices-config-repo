@@ -1,0 +1,4 @@
+*.jar
+zipkin.jar
+*.md5
+*.asc
